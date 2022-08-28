@@ -20,29 +20,23 @@
 <a href="https://github.com/2KAbhishek/shell-scripts/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/shell-scripts?style=flat&color=e06c75&label="> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="shell-scripts Demo">
-  <br/>
-  <figcaption>shell-scripts screenshot</figcaption>
-</figure>
+<h3>Utilities on the shell 🐚🔦</h3>
 
 </div>
 
 ## What is this
 
-shell-scripts is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+A collection of shell scripts for various utilities.
 
 ## Inspiration
 
-shell-scripts was inspired by `<reason/idea>`.
+Needed a place to store all the scripts I write.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `bash`
 
 ## Getting shell-scripts
 
@@ -50,52 +44,24 @@ To get shell-scripts, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/shell-scripts
-cd shell-scripts
-<install_command>
+cd shell-scripts/scripts
 ```
 
 ## Using shell-scripts
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+All scripts are placed under the `scripts` directory, feel free to edit them or use them as reference.
 
 ## How it was built
 
-shell-scripts was built using `<tech/library>`
-
-## Challenges faced
-
-While building shell-scripts the main challenges were `<issue/difficulty>`
+shell-scripts was built using `neovim`
 
 ## What I learned
 
-While building shell-scripts I `<learned/accomplished>` about `<learning/accomplishment>`
+- The quirks and gotchas of bash syntax, the most common one: avoid spaces in assignments `var=1`.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Will be adding more scripts.
 
 Hit the ⭐ button if you found this useful.
 
