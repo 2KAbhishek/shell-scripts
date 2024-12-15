@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Bash Script wrapper for cheat.sh
 topic=$2
 

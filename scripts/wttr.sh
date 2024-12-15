@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Bash Script wrapper for wttr.in
 city=$1
 
@@ -7,6 +7,6 @@ case $2 in
     curl v2.wttr.in/"$city"| lolcat
     ;;
 *)
-    curl v2.wttr.in/"$city" 
+    curl v2.wttr.in/"$city"
     ;;
 esac

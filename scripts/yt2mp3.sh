@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Bash Script to download youtube link as mp3
 url=$1
 
